@@ -1,8 +1,5 @@
 ### Hi everyone on this github and programming world 👋
 
-<!--
-**AnaKarenVS/anakarenvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Well... this is me:
 
 - 🔭 I’m currently working on working on my own shop online...
@@ -12,4 +9,4 @@ Well... this is me:
 - 💬 Ask me about CSS3 or Angular 4+ ...
 - 📫 How to reach me: on my email akarenvs@outlook.com...
 - ⚡ Fun fact: It's not fun but I love anime and J-rock music my favorite group are The Gazette I really love those guys ...
--->
+
