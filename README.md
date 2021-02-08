@@ -1,4 +1,3 @@
-![Banner](magical-girl.jpg)
 ### Hi everyone on this github and programming world 👋
 
 Well... this is me:
